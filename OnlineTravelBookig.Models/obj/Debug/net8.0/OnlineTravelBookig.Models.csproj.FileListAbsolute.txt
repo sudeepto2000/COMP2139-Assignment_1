@@ -1,0 +1,12 @@
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\bin\Debug\net8.0\OnlineTravelBookig.Models.deps.json
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\bin\Debug\net8.0\OnlineTravelBookig.Models.dll
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\bin\Debug\net8.0\OnlineTravelBookig.Models.pdb
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\OnlineTravelBookig.Models.csproj.AssemblyReference.cache
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\OnlineTravelBookig.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\OnlineTravelBookig.Models.AssemblyInfoInputs.cache
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\OnlineTravelBookig.Models.AssemblyInfo.cs
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\OnlineTravelBookig.Models.csproj.CoreCompileInputs.cache
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\OnlineTravelBookig.Models.dll
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\refint\OnlineTravelBookig.Models.dll
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\OnlineTravelBookig.Models.pdb
+C:\Users\sudee\source\repos\OnlineTravelBooking.Web\OnlineTravelBookig.Models\obj\Debug\net8.0\ref\OnlineTravelBookig.Models.dll
